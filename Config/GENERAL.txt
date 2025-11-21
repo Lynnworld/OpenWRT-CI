@@ -73,6 +73,12 @@ CONFIG_PACKAGE_kmod-veth=y
 CONFIG_PACKAGE_kmod-wireguard=y
 CONFIG_PACKAGE_kmod-tcp-scalable=y
 CONFIG_PACKAGE_kmod-tcp-bbr=y
+CONFIG_PACKAGE_kmod-sched-drr=y
+CONFIG_PACKAGE_kmod-sched-fq-pie=y
+CONFIG_PACKAGE_kmod-sched-mqprio=y
+CONFIG_PACKAGE_kmod-sched-pie=y
+CONFIG_PACKAGE_kmod-sched-prio=y
+CONFIG_PACKAGE_kmod-sched-red=y
 
 #组件调整
 CONFIG_PACKAGE_autocore=y
